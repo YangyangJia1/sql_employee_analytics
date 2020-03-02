@@ -16,7 +16,7 @@ In this project, I manipulated, visualized, and performed statistical tests on H
 
 ## Features
 This project folder contains:
+* [Queries](https://github.com/YangyangJia1/sql_employee_analytics/tree/master/files/queries)
+* [Data](https://github.com/YangyangJia1/sql_employee_analytics/tree/master/files/data)
 * [Tableau Visualization](#)
-* [Queries](#)
 * [Paper](#)
-* [Dataset](https://github.com/YangyangJia1/Analyzing_Chicago_Traffic_Accident_And_Casulaty_Trend_Using_Tableau/tree/master/files/data)
